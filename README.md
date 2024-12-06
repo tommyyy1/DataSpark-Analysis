@@ -12,7 +12,7 @@ Power BI Visualization
 Develop 10 SQL Queries
 Formulate and execute 10 SQL queries to extract key insights from the data. These queries should address important business questions and support the analysis steps below.
 
-Below analysis was done by using Power Bi:
+Below analysis should use Power BI:
 Customer Analysis
 Demographic Distribution: Analyze the distribution of customers based on gender, age (calculated from birthday), location (city, state, country, continent).
 Purchase Patterns: Identify purchasing patterns such as average order value, frequency of purchases, and preferred products.
